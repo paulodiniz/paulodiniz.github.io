@@ -9,6 +9,21 @@
     article figure p img {
       max-height: 128px;
     }
+    #avatar {
+      background-image: url('./avatar.jpg');
+
+      width: 150px;
+      height: 150px;
+
+      /* fill the container, preserving aspect ratio, and cropping to fit */
+      background-size: cover;
+
+      /* center the image vertically and horizontally */
+      background-position: top center;
+
+      /* round the edges to a circle with border radius 1/2 container size */
+      border-radius: 50%;
+    }
     </style>
   </head>
   <body>
@@ -20,6 +35,8 @@
           <h1 class="title">
             Hi! I'm Paulo
           </h1>
+
+          <div class="container" id="avatar"></div>
 
           <div class="container">
             I am a software developer based in Berlin
