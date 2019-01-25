@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/paulodiniz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paulodiniz.github.io
+  * I am paulodiniz (https://keybase.io/paulodiniz) on keybase.
+  * I have a public key ASAPM9sW68LsaKfaPl04V9jKsmhp4lOdDhQHkATmQQojYQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200f33db16ebc2ec68a7da3e5d3857d8cab26869e2539d0e14079004e6410a23610a",
+      "host": "keybase.io",
+      "kid": "01200f33db16ebc2ec68a7da3e5d3857d8cab26869e2539d0e14079004e6410a23610a",
+      "uid": "d63fe47f755c62503c0688341a1e7819",
+      "username": "paulodiniz"
+    },
+    "merkle_root": {
+      "ctime": 1548455090,
+      "hash": "cb8b81c2ed3320cb1d9c7b1ed3d61741a47be8653c5a4b1e25ec10037451d95ed1d80bb1bc93830434d92061a6bbc84cf580878a9aacfb1f095f5e3d0da9f554",
+      "hash_meta": "708facf3969ec047fa623ba5e30340e2e1bceabd0d339dc633ec230a96c14bf3",
+      "seqno": 4622148
+    },
+    "service": {
+      "entropy": "NGIJ5N50hPazkaWaz9+P60tk",
+      "hostname": "paulodiniz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1548455103,
+  "expire_in": 504576000,
+  "prev": "95340a0e2fd36a7d5819f1ca0573efb125d05ab645d11d072d66f8a1a267f131",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDzPbFuvC7Gin2j5dOFfYyrJoaeJTnQ4UB5AE5kEKI2EKp3BheWxvYWTESpcCGMQglTQKDi/Tan1YGfHKBXPvsSXQWrZF0R0HLWb4oaJn8THEIFcCFtXISiEdHDyWZmxiiuQnsqhywFNv4Kw4iCInD8oEAgHCo3NpZ8RAduJWnI7PWIZsHNJzYEkIaI4J7HsTqHWOz3ftbGb/4aPpbL42vvkPLj71uOFXNezKHnr5oRGKhPW5SD9Xg5sdBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEoZALk0UT84PP6DJShaGQJCE6kX59DKuNxQtGYo8wnco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paulodiniz
+
+==================================================================
